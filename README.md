@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/afrze/](https://www.linkedin.com/in/afrze/)
 
-- ⚡ Fun fact **Takes less effort to motivate me to do something.**
+- ⚡ Fun fact **takes less effort to motivate me to do something.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
