@@ -3,6 +3,16 @@
 ###
 
 <div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=afrze&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afrze&theme=github-dark" height="150" alt="activity-graph graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=afrze&column=3&no-frame=false&no-bg=false&row=3&theme=monokai&margin-w=12&margin-h=12" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=afrze&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=afrze&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="right">
   <a href="https://www.instagram.com/zubae.ali/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="instagram logo"  />
   </a>
@@ -25,7 +35,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.ibb.co/27tDZB7T/profile-pic-ghibli.png"  />
+<img align="right" height="120" src="https://i.ibb.co/27tDZB7T/profile-pic-ghibli.png"  />
 
 ###
 
@@ -134,5 +144,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="30" alt="yarn logo"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/afrze/afrze/output/snake.svg" alt="Snake animation" />
 
 ###
