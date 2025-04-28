@@ -33,12 +33,6 @@
   </a>
 </div>
 
-###
-
-<img align="right" height="120" src="https://i.ibb.co/27tDZB7T/profile-pic-ghibli.png"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
